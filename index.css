@@ -1,0 +1,42 @@
+/*.tora{
+	background-image: url(https://images.pexels.com/photos/248307/pexels-photo-248307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;}
+*/
+.jumbside {
+	opacity: 0.9;
+	background: no-repeat;
+}
+.prvi {
+	float: center;
+	color: gold;
+	text-align: center;
+	font-size: 120px;
+}
+.navbar {
+	margin-bottom: 3%;
+	margin-right: 3%;
+	margin-left: 3%;
+
+}
+.lead {
+	font-size: 20px;
+	color: gold;
+	opacity: 1;
+}
+#myVideo
+		{
+			min-width: 100%;
+			min-height: 100%;
+			width: auto;
+			height: auto;
+			position: fixed;
+
+		}
+#myvid {
+			height: 30%;
+			width: 30%;
+			float: center;
+			position: relative;
+}
